@@ -86,9 +86,7 @@ img {
     transition: height 0.5s ease;
     position: relative;
     z-index: 1;
-    width: -webkit-fit-content;
-    width: -moz-fit-content;
-    width: fit-content; }
+    width: 50vw; }
   .side-menu__left-side {
     background: #ffffff;
     padding-top: 37px;
